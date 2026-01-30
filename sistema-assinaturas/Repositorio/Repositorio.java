@@ -1,4 +1,4 @@
-package Exercicio02.Repositorio;
+package Repositorio;
 
 import java.util.List;
 
